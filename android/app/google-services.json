@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540759069877",
+    "project_id": "cardamon-iot",
+    "storage_bucket": "cardamon-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540759069877:android:e48d334fab2a4b53811afc",
+        "android_client_info": {
+          "package_name": "com.project.cardamon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540759069877-p15ohrfhd9s3tijhqgtkbecctl1p901r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFozNz7azc1Lgv1iLdgx1NbvP4h8DgyMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540759069877-p15ohrfhd9s3tijhqgtkbecctl1p901r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
